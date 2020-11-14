@@ -1,0 +1,18 @@
+2020-11-15 00:40:21,887 [INFO] com.coding.Log4jApplication [main] Starting Log4jApplication using Java 1.8.0_212 on DESKTOP-HMG7K0I with PID 6792 (C:\Users\DELL\eclipse-workspace\log4j\target\classes started by DELL in C:\Users\DELL\eclipse-workspace\log4j)
+2020-11-15 00:40:21,890 [DEBUG] com.coding.Log4jApplication [main] Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-15 00:40:21,891 [INFO] com.coding.Log4jApplication [main] No active profile set, falling back to default profiles: default
+2020-11-15 00:40:23,579 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-11-15 00:40:23,599 [INFO] org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-11-15 00:40:23,600 [INFO] org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-15 00:40:23,776 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-11-15 00:40:23,776 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1798 ms
+2020-11-15 00:40:24,077 [INFO] org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-15 00:40:24,393 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-15 00:40:24,406 [INFO] com.coding.Log4jApplication [main] Started Log4jApplication in 3.127 seconds (JVM running for 3.835)
+2020-11-15 00:40:28,669 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-11-15 00:40:28,670 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-11-15 00:40:28,671 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2020-11-15 00:40:28,702 [TRACE] com.coding.controller [http-nio-8080-exec-1] FATAL ERROR
+2020-11-15 00:40:30,768 [TRACE] com.coding.controller [http-nio-8080-exec-2] FATAL ERROR
+2020-11-15 00:40:31,064 [TRACE] com.coding.controller [http-nio-8080-exec-3] FATAL ERROR
+2020-11-15 00:40:31,223 [TRACE] com.coding.controller [http-nio-8080-exec-4] FATAL ERROR
