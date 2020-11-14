@@ -13,6 +13,9 @@ public class controller {
     public String hello()
     {
         logger.trace("FATAL ERROR");
+        logger.info("msg info");
+        logger.debug("debug msg");
+        logger.warn("msg warn");
         return "Hello Daily Code Buffer!!";
     }
 }
